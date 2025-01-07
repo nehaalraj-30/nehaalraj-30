@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nehaalraj-30
 - 👀 I’m interested in football,sports in general,music,t.v shows etc
-- 🌱 I’m currently learning frontend development
+- 🌱Digital design and VLSI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nehaalraj10@gmail.com
 
